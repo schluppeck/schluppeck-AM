@@ -1,4 +1,4 @@
-function [ , frame ] = onlineWebcam(doSave, aName)
+function [ frame ] = onlineWebcam(doSave, aName)
 %onlineWebcam - acquire an image from webcam
 %
 %      usage: [  ] = onlineWebcam( doSave, aName )
